@@ -1,6 +1,6 @@
 # ak-keerthan.vercel.app
 
-This is one of two repositories created for my portfolio website <a href="https://ak-keerthan.vercel.app/"><samp>ak-keerthan.vercel.app</samp></a>. If you are looking for the 2D OS repository you can find it <a href="https://github.com/ak-keerthan/portfolio-inner-site"><samp>here</samp></a>! Thanks for taking the time to check this out. If you have any questions or comments, feel free to shoot me an email at <samp><a href="mailto:keerthankacharya@gmail.com">keerthankacharya@gmail.com</a></samp> or you can DM me on Twitter <a href="https://twitter.com/ak_keerthan"><samp>@ak_keerthan</samp></a>.
+This is OS-Themed created for my portfolio website <a href="https://ak-keerthan.vercel.app/"><samp>ak-keerthan.vercel.app</samp></a>. Thanks for taking the time to check this out. If you have any questions or comments, feel free to shoot me an email at <samp><a href="mailto:keerthankacharya@gmail.com">keerthankacharya@gmail.com</a></samp> or you can DM me on Twitter <a href="https://twitter.com/ak_keerthan"><samp>@ak_keerthan</samp></a>.
 
 <br>
 
